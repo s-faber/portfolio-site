@@ -1,0 +1,15 @@
+body {
+    background-color: #1e242b;
+}
+
+h1 {
+    font-family: Helvetica;
+    font-size: larger;
+    color: white;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-size: medium;
+    color: white;
+}
