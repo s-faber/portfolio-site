@@ -5,7 +5,7 @@ This is my first web development project, created using **HTML**, **CSS**, and *
 ## Features
 - Home page with my name and introduction
 - About page with details about me
-- Contact page with a form
+- Contact page
 - Responsive design for both desktop and mobile devices
 
 ## How to Run
